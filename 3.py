@@ -1,0 +1,10 @@
+# get integer input for variable a,b,c. multiply all 3 variable(a*b*c).divide the multiple value by added values.print it#
+a=int(input())
+b=int(input())
+c=int(input())
+d=(a*b*c)
+e=(a+b+c)
+f=(d/e)
+print("multiply:",d)
+print("add:",e)
+print("div both value:",f)
